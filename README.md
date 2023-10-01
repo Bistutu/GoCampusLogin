@@ -1,7 +1,7 @@
 # 金智教务网登录程序
 > 北京信息科技大学版本，理论上适用于所有**金智教务端**，为课表/成绩查询、校内论坛、校园卡余额查询等应用提供支撑。
 
-![sample](./sample.png)
+<img src="./images/sample2.png" alt="image-20230903160734038" width="33%" />
 
 # 声明
 
@@ -42,6 +42,8 @@ sudo apt install libtesseract-dev
 ```shell
 curl http://127.0.0.1:9999/login?username=账号&password=密码
 ```
+
+![sample](./images/sample1.png)
 
 # 项目结构
 
